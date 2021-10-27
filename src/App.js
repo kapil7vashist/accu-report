@@ -1,4 +1,4 @@
-import {Consumer} from "./Context.js";
+import {Provider} from "./Context.js";
 import Header from "./Components/Header.js";
 import Footer from "./Components/Footer.js";
 
